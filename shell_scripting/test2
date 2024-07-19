@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cat<< END
+This is test 
+text that 
+encompasses multiple
+lines
+END
